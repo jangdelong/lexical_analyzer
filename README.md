@@ -6,3 +6,6 @@ lexical_analyzer
 1、index.html；
 2、css (style.css)；
 3、js (analyzer.js、common.js)；
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.jeloncn.com/
