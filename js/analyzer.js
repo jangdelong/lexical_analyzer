@@ -18,7 +18,6 @@
  		}
  	};
 	
-
  	analyzer.spliter = {
 
  		split_handlers: {
