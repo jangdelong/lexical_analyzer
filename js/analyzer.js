@@ -21,7 +21,6 @@
 
  	analyzer.spliter = {
 
-
  		split_handlers: {
 
  			//关键字判断
