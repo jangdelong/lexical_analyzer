@@ -10,7 +10,6 @@
 	var txtCode = document.getElementById("txtCode");
 	var txtResult = document.getElementById("txtResult");
 
-
 	//清空重置
 	btnReset.onclick = function() {
 		if (txtCode.value != '' || txtResult.value != '') {
